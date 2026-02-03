@@ -2,10 +2,10 @@
 This project focuses on end-to-end data analysis in the banking domain using Python, SQL, Power BI to extract meaningful business insights from raw banking data. The objective is to analyze customer behavior, transactions, loans, deposits, and overall bank performance through interactive dashboards and KPIs.
 
 # Tools & Technologies Used
-sql - Used to store the data in data base
-Excel / CSV – Data source
-Python - Data Cleaning & Transformation – Power Query
-Power BI – Data modeling, DAX, dashboards & visualization
+1. sql - Used to store the data in data base
+2. Excel / CSV – Data source
+3. Python - Data Cleaning & Transformation – Power Query
+4. Power BI – Data modeling, DAX, dashboards & visualization
 
 # Key KPIs & Insights
 1. Total Customers & Customer Growth
